@@ -4,9 +4,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Working as a **MERN Stack Developer** at **AmazDraw**
+- 💼 Working as a **MERN Stack Developer**
 - ⏳ **1+ year of professional experience**
-- 🌐 Currently working on: https://amazdraw.com/
+- 🌐 Currently working on: https://characterbazaar.com/
+- 🏢 Previously worked on: https://amazdraw.com/
 - 🚀 Passionate about building scalable web applications
 - 💡 Always learning new technologies and improving my skills
 
@@ -36,9 +37,11 @@
 - 🌐 **Portfolio Website**  
   👉 https://mellifluous-treacle-08f5ec.netlify.app
 
-- 🖌 **AmazDraw (Professional Project)**  
-  👉 https://amazdraw.com/  
-  *(Working as MERN Stack Developer)*
+- 🧩 **CharacterBazaar (Current Work)**  
+  👉 https://characterbazaar.com/
+
+- 🎨 **AmazDraw (Previous Project)**  
+  👉 https://amazdraw.com/
 
 ---
 
