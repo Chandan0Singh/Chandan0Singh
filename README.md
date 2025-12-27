@@ -1,54 +1,88 @@
-<h1 align="center">Hi 👋, I'm Chandan Singh</h1>
-<h3 align="center">MERN Stack Developer | React & Next.js Enthusiast</h3>
+<h1 align="center">Hi, I'm Chandan Singh 👋</h1>
+<h3 align="center">Full-Stack MERN Developer building real, production-scale products</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 💼 Working as a **MERN Stack Developer**
-- ⏳ **1+ year of professional experience**
-- 🌐 Currently working on: https://characterbazaar.com/
-- 🏢 Previously worked on: https://amazdraw.com/
-- 🚀 Passionate about building scalable web applications
-- 💡 Always learning new technologies and improving my skills
+## About Me
+
+I’m a **Full-Stack MERN Developer** working on real-world platforms, not demo apps.
+
+- Currently building **CharacterBazaar**, a production digital-asset marketplace  
+- Hands-on with **frontend, backend, performance, SEO, and system design**
+- Comfortable owning features end-to-end — from UI to database to deployment
+- Focused on **clean architecture, performance, and scalability**
+
+🌐 Live product: https://characterbazaar.com  
+🏢 Previously worked on: https://amazdraw.com  
 
 ---
 
-## 💻 Tech Stack & Skills
+## What I Actually Work On
+
+- Building full-stack features using **Next.js, Node.js, Express, MongoDB**
+- Designing **SEO-friendly, dynamic pages** (meta, schema, canonical handling)
+- Optimizing **Core Web Vitals (LCP, FCP, CLS)** for production traffic
+- Implementing **credit-based pricing, licensing logic, and secure APIs**
+- Handling **media workflows, asset delivery, and performance bottlenecks**
+- Writing maintainable code with real users and scale in mind
+
+---
+
+## Tech Stack
+
 ### Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+- React.js, Next.js (SSR / dynamic routing)
+- Redux
+- Tailwind CSS, Bootstrap
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+### Backend
+- Node.js, Express.js
+- MongoDB
+- REST APIs
+- Authentication & authorization flows
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🚀 Projects
-- 🌐 **Portfolio Website**  
-  👉 https://mellifluous-treacle-08f5ec.netlify.app
-
-- 🧩 **CharacterBazaar (Current Work)**  
-  👉 https://characterbazaar.com/
-
-- 🎨 **AmazDraw (Previous Project)**  
-  👉 https://amazdraw.com/
+### Other Skills
+- Performance optimization & debugging
+- SEO for large-scale dynamic websites
+- Data Structures & Algorithms (Java)
 
 ---
 
-## 📫 Connect With Me
+## Projects
+
+### CharacterBazaar (Current)
+**Production-ready marketplace for digital characters and assets**
+
+- Full-stack MERN application
+- Credit-based pricing and licensing system
+- Dynamic SEO pages generated at scale
+- Performance-optimized asset delivery
+- Built and maintained as a live product
+
+👉 https://characterbazaar.com/
+
+---
+
+### AmazDraw
+**Creative platform focused on design assets and illustrations**
+
+- React-based frontend
+- Worked on UI, features, and platform improvements
+
+👉 https://amazdraw.com/
+
+---
+
+### Portfolio
+👉 https://mellifluous-treacle-08f5ec.netlify.app
+
+---
+
+## Connect With Me
+
 - 📧 Email: **code.chandansingh@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/chandan0singh
 
 ---
 
-⭐ **Feel free to check out my repositories and give a star if you like my work!**
+⭐ If you care about **real products, clean code, and scalable systems**, feel free to explore my repositories.
